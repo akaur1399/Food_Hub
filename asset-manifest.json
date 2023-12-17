@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akaur1399/Food_Hub.git/static/css/main.6deca09a.css",
+    "main.js": "/akaur1399/Food_Hub.git/static/js/main.f0b11413.js",
+    "static/js/787.28cb0dcd.chunk.js": "/akaur1399/Food_Hub.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/akaur1399/Food_Hub.git/index.html",
+    "main.6deca09a.css.map": "/akaur1399/Food_Hub.git/static/css/main.6deca09a.css.map",
+    "main.f0b11413.js.map": "/akaur1399/Food_Hub.git/static/js/main.f0b11413.js.map",
+    "787.28cb0dcd.chunk.js.map": "/akaur1399/Food_Hub.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6deca09a.css",
+    "static/js/main.f0b11413.js"
+  ]
+}
